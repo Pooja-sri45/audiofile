@@ -179,13 +179,14 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-<img width="1918" height="1078" alt="ex 3 d" src="https://github.com/user-attachments/assets/164b692f-43b6-4068-b906-c40f2c5a39cf" />
-
-<img width="1918" height="1078" alt="EX 3 C" src="https://github.com/user-attachments/assets/f6a7b089-dcad-4f12-b0bd-ddd26882de14" />
+<img width="1917" height="1078" alt="EX 3 A" src="https://github.com/user-attachments/assets/f643ca4f-ece4-45cc-9ffb-a4260642be4e" />
 
 <img width="1917" height="1078" alt="EX 3 B" src="https://github.com/user-attachments/assets/08740998-840e-4ad9-9dda-6b074c9b7ee7" />
 
-<img width="1917" height="1078" alt="EX 3 A" src="https://github.com/user-attachments/assets/f643ca4f-ece4-45cc-9ffb-a4260642be4e" />
+<img width="1918" height="1078" alt="EX 3 C" src="https://github.com/user-attachments/assets/f6a7b089-dcad-4f12-b0bd-ddd26882de14" />
+
+<img width="1918" height="1078" alt="ex 3 d" src="https://github.com/user-attachments/assets/164b692f-43b6-4068-b906-c40f2c5a39cf" />
+
 
 
 
